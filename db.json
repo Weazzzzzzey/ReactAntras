@@ -97,23 +97,26 @@
       "katName": "Salotos",
       "patiekalai": [
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "name": "Lapinių kopūstų salotos",
+          "ingridientai": "Kopūstai, Pomidorai",
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/28856.jpg",
           "key": 10,
           "katid": 3
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "name": "Grikių salotos su agurkaisir kiaušiniu",
+          "ingridientai": "Grikiai, ridikeliai, kiaušiniai",
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/30093.jpg",
           "key": 11,
           "katid": 3
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "name": "Nicos stiliaus tuno salotos",
+          "ingridientai": "Nicos tuno, lapu, pomidoru",
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/29489.jpg",
           "key": 12,
           "katid": 3
         },
@@ -121,6 +124,7 @@
           "name": "Cezario Salotos",
           "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/27502.jpg",
           "key": 13,
           "katid": 3
         }
