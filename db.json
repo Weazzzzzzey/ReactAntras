@@ -135,30 +135,34 @@
       "katName": "Desertai",
       "patiekalai": [
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "name": "Maskarponės desertas su vyšniomis",
+          "ingridientai": "Maskarponės sūrio, graigiško jogurto, sausalnių, vyšnių, vanilės",
+          "gaminimas": "Sumaišyti viską ir suvalgyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/27502.jpg",
           "key": 14,
           "katid": 4
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "name": "Purios kondensuoto pieno spurgytės",
+          "ingridientai": "Kondencuotas pienas, cukrus, varškė, vanilė.",
+          "gaminimas": "Sumaišyti viską ir suvalgyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/31462.jpg",
           "key": 15,
           "katid": 4
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "name": "Varškės tinginys su jogurtu ir vyšniomis",
+          "ingridientai": "Sausainiai, varškė, vyšnios, sviestas, graikiškas jogurtas",
+          "gaminimas": "Sumaišyti viską ir suvalgyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/30536.jpg",
           "key": 16,
           "katid": 4
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "name": "Varškės desertas su karamele",
+          "ingridientai": "kreminė varškė, grietinėlė, saldainiai, kokosai.",
+          "gaminimas": "Sumaišyti viską ir suvalgyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/30527.jpg",
           "key": 17,
           "katid": 4
         }
