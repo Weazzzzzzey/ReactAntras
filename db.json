@@ -59,34 +59,34 @@
       "katName": "Pagrindinis",
       "patiekalai": [
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "name": "Mėsainis su vištiena, pomidorų salotomis",
+          "ingridientai": "Maltinukai, bandelės, salotoss, pomidorai, padažai",
+          "gaminimas": "Iškepti maltinukus, iškepti bandeles, susimaišyti salotas, sudėti į mėsaini.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/29928.jpg",
           "key": 6,
           "katid": 2
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "name": "Dešrainis Pølse,
+          "ingridientai": "Bandelės, dešrelės, padažai, svogūnai.",
+          "gaminimas": "Iškepti dešreles, pakaitinti bandeles, sudėti dešreles į bandeles, apipilti padažu.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/29965.jpg",
           "key": 7,
           "katid": 2
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "name": "Bulvių apkepas su Bešamelio padažu",
+          "ingridientai": "Bulvės, aliejus, bešamelio padažas, kiaušiniai",
+          "gaminimas": "Išmaišyti viską ir idėti į orkaitę.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/22202.jpg",
           "key": 8,
           "katid": 2
         },
         {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "name": "Varškės apkepas su avietėmis",
+          "ingridientai": "Varškė, avietės, kiaušiniai, cukrus, sviestas",
+          "gaminimas": "Išmaišyti viską ir idėti į orkaitę.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/31082.jpg",
           "key": 9,
           "katid": 2
         }
