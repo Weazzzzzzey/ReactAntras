@@ -35,29 +35,29 @@
           "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
           "key": 3,
           "katid": 1
-        }
+        },
+         {
+          "name": "Tiršta moliūgų sriuba su vištiena",
+          "ingridientai": "1 kilogramas moliūgų (nulupto, be sėklų), 500 mililitrų sultinio (apytikriai), 100 mililitrų grietinėlės (arba kokoso pieno), 1 vienetas svogūnų (vidutinio dydžio), 2 skiltelės česnako, 1 šaukštelis saldžiosios paprikos miltelių, 0.5 šaukštelio aitriosios paprikos miltelių, 1 žiupsnelis pipirų, pagal skonį druskos, šiek tiek aliejaus",
+          "gaminimas": "Viską supjausti, išvirti ir suvalgyti!",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "key": 4,
+          "katid": 1
+        },
+         {
+          "name": "Tiršta moliūgų sriuba su vištiena",
+          "ingridientai": "1 kilogramas moliūgų (nulupto, be sėklų), 500 mililitrų sultinio (apytikriai), 100 mililitrų grietinėlės (arba kokoso pieno), 1 vienetas svogūnų (vidutinio dydžio), 2 skiltelės česnako, 1 šaukštelis saldžiosios paprikos miltelių, 0.5 šaukštelio aitriosios paprikos miltelių, 1 žiupsnelis pipirų, pagal skonį druskos, šiek tiek aliejaus",
+          "gaminimas": "Viską supjausti, išvirti ir suvalgyti!",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "key": 5,
+          "katid": 1
+        },
       ]
     },
     {
       "katid": 2,
       "katName": "Pagrindinis",
       "patiekalai": [
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
-          "key": 4,
-          "katid": 2
-        },
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
-          "key": 5,
-          "katid": 2
-        },
         {
           "name": "Cezario Salotos",
           "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
@@ -73,6 +73,22 @@
           "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
           "key": 7,
           "katid": 2
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "key": 8,
+          "katid": 2
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "uri": "https://www.lamaistas.lt/uploads/modules/recipes/thumb300x224/17550.jpg",
+          "key": 9,
+          "katid": 2
         }
       ]
     },
@@ -80,20 +96,6 @@
       "katid": 3,
       "katName": "Salotos",
       "patiekalai": [
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "key": 8,
-          "katid": 3
-        },
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "key": 9,
-          "katid": 3
-        },
         {
           "name": "Cezario Salotos",
           "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
@@ -107,6 +109,20 @@
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
           "key": 11,
           "katid": 3
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "key": 12,
+          "katid": 3
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "key": 13,
+          "katid": 3
         }
       ]
     },
@@ -114,20 +130,6 @@
       "katid": 4,
       "katName": "Desertai",
       "patiekalai": [
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "key": 12,
-          "katid": 4
-        },
-        {
-          "name": "Cezario Salotos",
-          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
-          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
-          "key": 13,
-          "katid": 4
-        },
         {
           "name": "Cezario Salotos",
           "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
@@ -140,6 +142,20 @@
           "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
           "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
           "key": 15,
+          "katid": 4
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "key": 16,
+          "katid": 4
+        },
+        {
+          "name": "Cezario Salotos",
+          "ingridientai": "Kopūstai, Kepta Vištiena, Cezario padažas, Pomidorai",
+          "gaminimas": "Iškepti vištiena, Supjaustiti kopūstus ir pomidorus, įpilti padažą ,išmaišyti.",
+          "key": 17,
           "katid": 4
         }
       ]
